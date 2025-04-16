@@ -222,3 +222,7 @@ footer > p {
     padding: 22px;
     font-size: clamp(10px, 3.3vw, 18px);
 }
+
+footer > p > a {
+    color: white;
+}
